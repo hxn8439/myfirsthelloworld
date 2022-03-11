@@ -1,7 +1,12 @@
+package com.hcl;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Stream;
+
+
+// Hadi Channaa version 
 
 class Product {
 	int id;
